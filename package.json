@@ -1,0 +1,31 @@
+{
+  "name": "timetable_synchronizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamDja/timetable_synchronizer.git"
+  },
+  "author": "Samuel Giacomelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamDja/timetable_synchronizer/issues"
+  },
+  "homepage": "https://github.com/SamDja/timetable_synchronizer#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-sass": "^2.3.2",
+    "typed.js": "^1.1.1"
+  },
+  "dependencies": {
+    "browser-sync": "^2.18.2"
+  }
+}
